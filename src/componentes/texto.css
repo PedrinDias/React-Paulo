@@ -1,0 +1,5 @@
+.post{
+    min-width: 200px;
+    border: 2px solid;
+    box-shadow: 2.3px 2.3px 2.3px 2px rgb(150, 150, 150);
+}
